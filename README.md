@@ -1,6 +1,9 @@
-# ecommerce_shop
+# ECommerce Shop Design
 
-A new Flutter project.
+<div style="display: flex;">
+  <img src="Screenshot_20230720-220953.png" alt="Image 1" style="width: 200px; height: 400px; margin-right: 10px;" />
+  <img src="Screenshot_20230720-220940.png" alt="Image 2" style="width: 200px; height: 400px;margin-right: 10px;" />
+</div>
 
 ## Getting Started
 
